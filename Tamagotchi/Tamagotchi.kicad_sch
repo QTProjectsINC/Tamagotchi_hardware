@@ -6997,16 +6997,6 @@
 		)
 		(uuid "559b117b-7000-4841-bb8c-a13b1d820dcd")
 	)
-	(text "DISPLAY: https://nl.aliexpress.com/item/1005005039754957.html?spm=a2g0o.productlist.main.28.6ceaFg0hFg0hn5&algo_pvid=c510dd45-5260-4aa8-843d-e0720577f99c&algo_exp_id=c510dd45-5260-4aa8-843d-e0720577f99c-31&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%7D&pdp_npi=6%40dis%21EUR%212.53%212.07%21%21%212.88%212.36%21%402103892f17553668013963929e3f58%2112000031419530217%21sea%21NL%210%21ABX%211%210%21n_tag%3A-29910%3Bm03_new_user%3A-29895&curPageLogUid=YYKFiAIGsFCS&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005039754957%7C_p_origin_prod%3A&_gl=1*lcgtoe*_gcl_aw*R0NMLjE3NTUzNjY3ODIuQ2owS0NRancySURGQmhEQ0FSSXNBQkRLT0o1QllkU0RhUVh5T2EzdXE4TjF1aE1iMkZDUldlV2w5dmZhNTAzWEtrSUtWYUhRNWQxVWl1QWFBcm9PRUFMd193Y0I.*_gcl_dc*R0NMLjE3NTUzNjY3ODIuQ2owS0NRancySURGQmhEQ0FSSXNBQkRLT0o1QllkU0RhUVh5T2EzdXE4TjF1aE1iMkZDUldlV2w5dmZhNTAzWEtrSUtWYUhRNWQxVWl1QWFBcm9PRUFMd193Y0I.*_gcl_au*ODc3MDc2NjQ0LjE3NTUwMDc5MjY.*_ga*MjE4NTczNTYuMTc1NTAwNzkyNg..*_ga_VED1YSGNC7*czE3NTUzNjY3ODEkbzMkZzEkdDE3NTUzNjY4MDYkajM1JGwwJGgw"
-		(exclude_from_sim no)
-		(at 229.616 225.552 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "62839664-a52e-4abd-ad87-dcf76de7772b")
-	)
 	(text "Buttons"
 		(exclude_from_sim no)
 		(at 132.334 104.648 0)
